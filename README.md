@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm K </h1>
+<h1 align="center">Hi there! </h1>
 <h3 align="center">"Innovating for the future with AI, cloud, and code." <h3>
 
 <div align="center"> 
-  Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+  Full-Stack Development | Open Source Enthusiasts | Tech Explorer's
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -33,7 +33,7 @@
 ---
 
 <div align="center">
-  <h2> About Me</h2>
+  <h2> About Us</h2>
   <ul>
     <li> <strong>Building</strong> cool projects using the latest tech</li>
     <li> <strong>Goal:</strong> Master <strong>AI & Cloud Technologies</strong></li>
