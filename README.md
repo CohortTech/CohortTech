@@ -2,7 +2,7 @@
 <h3 align="center">"Innovating for the future with AI, cloud, and code." <h3>
 
 <div align="center"> 
-  ### Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+  Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
