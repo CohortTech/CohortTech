@@ -341,26 +341,4 @@
 </div>
 
 
----
 
-<div align="center">
-  ##  Fun Fact: What I'm Listening To  
-  [![Spotify](https://novatorem-your-username.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)  
-</div>
-
----
-
-<div align="center">
-  ##  GitHub Trophies  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)  
-</div>
-
----
-
-<div align="center">
-  ##  Let's Connect!  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
-  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-</div>
