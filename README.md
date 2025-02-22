@@ -332,12 +332,14 @@
 ---
 
 <div align="center">
-  ##  GitHub Stats  
+  ## GitHub Stats  
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+  <!-- Replace with your custom image URLs -->
+  <img src="https://your-image-hosting-service.com/your-image.png" width="400px" alt="Custom GitHub Stats">  
+  <img src="https://your-image-hosting-service.com/your-image2.png" width="400px" alt="Custom GitHub Streak">  
+  <img src="https://your-image-hosting-service.com/your-image3.png" width="400px" alt="Custom Top Languages">  
 </div>
+
 
 ---
 
