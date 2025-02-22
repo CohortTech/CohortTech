@@ -327,7 +327,47 @@
 
 </div>
 
+<div align="center">
+  ## 3D Design | Print Models | Casting Mold Models  
 
+  <p align="center" style="margin-top: 20px;">
+    <span style="display: inline-block; margin-right: 5px;">
+      <a href="https://www.freecadweb.org/" target="_blank">
+        <img src="https://img.shields.io/badge/FreeCAD-0000FF?style=for-the-badge&logo=freecad&logoColor=white" />
+      </a>
+    </span>
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/AutoCAD-005C87?style=for-the-badge&logo=autocad&logoColor=white" />
+    </span>
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+    </span>
+  </p>
+</div>
+
+
+<div align="center">
+  ## 3D | 2D Drawings and Design  
+  
+
+   <p align="center" style="margin-top: 20px;">
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/FreeCAD-0000FF?style=for-the-badge&logo=freecad&logoColor=white" />
+    </span>
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+    </span>
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/CorelDRAW-3A5A40?style=for-the-badge&logo=coreldraw&logoColor=white" />
+    </span>
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/GIMP-DD4814?style=for-the-badge&logo=gimp&logoColor=white" />
+    </span>
+    <span style="display: inline-block; margin-right: 5px;">
+      <img src="https://img.shields.io/badge/Google_Web_Designer-F7AB1D?style=for-the-badge&logo=google&logoColor=white" />
+    </span>
+  </p>
+</div>
 
 ---
 
