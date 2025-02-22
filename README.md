@@ -2,10 +2,9 @@
 <h3 align="center">"Innovating for the future with AI, cloud, and code." <h3>
 
 <div align="center"> 
-  ### Full-Stack Developer | 💻 Open Source Enthusiast | 🌍 Tech Explorer
+  ### Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
