@@ -1,3 +1,10 @@
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CohortTech&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CohortTech)
+
 <h1 align="center">Hi there! </h1>
 <h3 align="center">"Innovating for the future with AI, cloud, and code." <h3>
 ## Activity Timeline
