@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! </h1>
 <h3 align="center">"Innovating for the future with AI, cloud, and code." <h3>
+## Activity Timeline
 
+![GitHub Activity Timeline](https://github-readme-activity-timeline.herokuapp.com/graph/?username=CohortTech)
 <div align="center"> 
   Full-Stack Development | Open Source Enthusiasts | Tech Explorer's
 </div>
