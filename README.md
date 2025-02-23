@@ -5,6 +5,7 @@
   Full-Stack Development | Open Source Enthusiasts | Tech Explorer's
 </div>
 <div align="center">
+    <span style="display: inline-block; margin-top: 20px;">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
