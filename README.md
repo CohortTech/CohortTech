@@ -37,7 +37,7 @@
   <ul>
     <li> <strong>Building</strong> cool projects using the latest tech</li>
     <li> <strong>Goal:</strong> Master <strong>AI & Cloud Technologies</strong></li>
-    <li> <strong>Open to Collaboration:</strong> Startups, Open Source & Exciting Projects | And cutting out the Greedy Middleman in the World</li>
+    <li> <strong>Open to Collaboration:</strong> Startups, Open Source & Exciting Projects | Spreading Cyber Security Awareness </li>
     <li> <strong>Side Hustles:</strong> Creating Deskop Appplications for Small Businesses for nominal fee's or Pro-Bono</li>
     <li> <strong>Learning:</strong> DevOps | Machine Learning | Blockchain | Web3.0 </li>
   </ul>
